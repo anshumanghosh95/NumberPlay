@@ -23,4 +23,4 @@ try:
                     print(x,y)
                     break
 except Exception as e:
-    Print(Error occurred: ', e)
+    Print('Error occurred: ', e)
